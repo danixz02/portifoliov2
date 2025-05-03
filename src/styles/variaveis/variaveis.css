@@ -1,0 +1,10 @@
+:root {
+    --cor-texto: #D9D5E3;
+    --cor-background: #1C1A1F;
+    --cor-secundaria: #533DD9;
+    --card-gradient: background: linear-gradient(148deg, rgba(83, 61, 217, 1) 11%, rgba(83, 61, 217, 0) 100%);
+
+    
+
+    --font-titulo: "ClashDisplay", sans-serif;
+}

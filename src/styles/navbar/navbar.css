@@ -1,0 +1,24 @@
+#logoImg {
+    width: 60px;
+    height: 60px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    backdrop-filter: blur(30px);
+    padding: 10px 90px;
+}
+
+.navLinks {
+    display: flex;
+    gap: 30px;
+}
+
+.navLinks a {
+    color: #D9D5E3;
+    font-size: 18px;
+    font-weight: 500;
+    transition: all 0.3s ease-in-out;
+}
