@@ -3,7 +3,7 @@
 
 @font-face {
     font-family: "ClashDisplay";
-    src: url("../assets/font/ClashDisplay.ttf") format("truetype");
+    src: url("../../assets/font/CLASHDISPLAY.TTF") format("truetype");
 }
 
 * {
@@ -14,7 +14,15 @@
 }
 
 body {
-    background-color: #1C1A1F;
+    background-image: url('../../assets/hero/bg-hero.webp');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+body {
+    background-color: var(--cor-background);
 }
 
 a {

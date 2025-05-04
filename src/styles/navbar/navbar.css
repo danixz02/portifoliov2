@@ -4,11 +4,17 @@
 }
 
 .navbar {
+    position: absolute; /* ou fixed, se quiser que ela role com a página */
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 10;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    backdrop-filter: blur(30px);
-    padding: 10px 90px;
+    padding: 20px 50px;
+    backdrop-filter: blur(10px);
+    background-color: #ffffff09;
 }
 
 .navLinks {
