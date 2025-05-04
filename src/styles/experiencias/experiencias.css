@@ -1,0 +1,12 @@
+#experiencias {
+    margin-top: 12rem;
+}
+
+#experiencias h1 {
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 700;
+    color: var(--cor-texto);
+    margin-bottom: 1rem;
+    font-family: 'ClashDisplay', sans-serif;
+}

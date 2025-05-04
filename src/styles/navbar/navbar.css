@@ -4,7 +4,7 @@
 }
 
 .navbar {
-    position: absolute; /* ou fixed, se quiser que ela role com a página */
+    position: fixed;
     top: 0;
     left: 0;
     width: 100%;
